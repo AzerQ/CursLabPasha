@@ -1,0 +1,21 @@
+# ninja log v5
+4	358	7097621149600980	build.ninja	3e3af5ea07865385
+13	836	7097621158752892	CMakeFiles/OstovTree.dir/src/PriorityQueue.cpp.obj	d38bd77e5e9f7b6b
+20	1137	7097621161721918	CMakeFiles/OstovTree.dir/src/MinimumSpanningTree.cpp.obj	de70bf0954707fdc
+7	1540	7097621165820600	CMakeFiles/OstovTree.dir/src/main.cpp.obj	7d83fa000b50022
+0	1633	7097621166750297	CMakeFiles/OstovTree.dir/src/Graph.cpp.obj	d25310a0db410ad1
+1635	2246	7097621172768452	OstovTree.exe	79335dedbd4a69f2
+5	1073	7097622030405738	CMakeFiles/OstovTree.dir/src/main.cpp.obj	7d83fa000b50022
+1076	1686	7097622036439475	OstovTree.exe	79335dedbd4a69f2
+5	1075	7097622468531819	CMakeFiles/OstovTree.dir/src/main.cpp.obj	7d83fa000b50022
+1078	1710	7097622474775554	OstovTree.exe	79335dedbd4a69f2
+5	2900	7097623454113608	CMakeFiles/OstovTree.dir/src/main.cpp.obj	7d83fa000b50022
+2907	3540	7097623460413353	OstovTree.exe	79335dedbd4a69f2
+6	2980	7097624492354040	CMakeFiles/OstovTree.dir/src/main.cpp.obj	7d83fa000b50022
+2983	3686	7097624499307518	OstovTree.exe	79335dedbd4a69f2
+5	1070	7097624727530057	CMakeFiles/OstovTree.dir/src/main.cpp.obj	7d83fa000b50022
+1072	1865	7097624735360123	OstovTree.exe	79335dedbd4a69f2
+5	1069	7097624811538339	CMakeFiles/OstovTree.dir/src/main.cpp.obj	7d83fa000b50022
+1071	1812	7097624818792057	OstovTree.exe	79335dedbd4a69f2
+5	1036	7097625935751654	CMakeFiles/OstovTree.dir/src/main.cpp.obj	7d83fa000b50022
+1038	1670	7097625941983079	OstovTree.exe	79335dedbd4a69f2

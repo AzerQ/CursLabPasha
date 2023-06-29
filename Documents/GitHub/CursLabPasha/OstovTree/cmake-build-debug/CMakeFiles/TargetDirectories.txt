@@ -1,0 +1,3 @@
+C:/Users/AzerQ/Documents/GitHub/CursLabPasha/OstovTree/cmake-build-debug/CMakeFiles/OstovTree.dir
+C:/Users/AzerQ/Documents/GitHub/CursLabPasha/OstovTree/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AzerQ/Documents/GitHub/CursLabPasha/OstovTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir

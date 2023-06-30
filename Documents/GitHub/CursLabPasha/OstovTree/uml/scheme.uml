@@ -1,0 +1,29 @@
+@startuml
+
+class Graph {
+  -vertices: int
+  -adjacencyList: vector<vector<pair<int, int>>>
+  +addEdge(src: int, dest: int, weight: int): void
+  +printGraph(): void
+}
+
+class MinimumSpanningTree {
+  -graph: Graph
+  -key: vector<int>
+  -parent: vector<int>
+  -mstSet: vector<bool>
+  +calculateMST(): void
+  +printMinimumSpanningTree(): void
+  -getMinimumKey(): int
+}
+
+class Edge {
+  -src: int
+  -dest: int
+  -weight: int
+}
+
+Graph "1" *-- "*" Edge
+MinimumSpanningTree "1" o-- "1" Graph
+
+@enduml

@@ -1,0 +1,18 @@
+# ninja log v5
+3	307	7097750863889246	build.ninja	4c667680d6014955
+14	983	7097750874455845	CMakeFiles/GraphParent.dir/src/LCA.cpp.obj	b08fd83e3d2fcbcd
+7	1018	7097750874815736	CMakeFiles/GraphParent.dir/src/main.cpp.obj	45a71af9f354c9b4
+1	1020	7097750874835720	CMakeFiles/GraphParent.dir/src/Graph.cpp.obj	fc8251736023866a
+1020	1399	7097750878527651	GraphParent.exe	6c260729125d14b1
+5	958	7097751673494191	CMakeFiles/GraphParent.dir/src/main.cpp.obj	45a71af9f354c9b4
+961	1418	7097751678003597	GraphParent.exe	6c260729125d14b1
+4	855	7097761187076344	CMakeFiles/GraphParent.dir/src/main.cpp.obj	45a71af9f354c9b4
+857	1279	7097761191398038	GraphParent.exe	6c260729125d14b1
+4	855	7097765577373513	CMakeFiles/GraphParent.dir/src/main.cpp.obj	45a71af9f354c9b4
+857	1287	7097765581592176	GraphParent.exe	6c260729125d14b1
+4	848	7097765948556870	CMakeFiles/GraphParent.dir/src/main.cpp.obj	45a71af9f354c9b4
+850	1277	7097765952758571	GraphParent.exe	6c260729125d14b1
+5	864	7097768833354408	CMakeFiles/GraphParent.dir/src/main.cpp.obj	45a71af9f354c9b4
+867	1287	7097768837487270	GraphParent.exe	6c260729125d14b1
+5	849	7097769185844503	CMakeFiles/GraphParent.dir/src/main.cpp.obj	45a71af9f354c9b4
+851	1249	7097769189750641	GraphParent.exe	6c260729125d14b1

@@ -1,0 +1,18 @@
+@startuml
+class Graph {
+  - numVertices: int
+  - adjacencyList: vector<vector<pair<int, int>>>
+  + addEdge(src: int, dest: int, weight: int): void
+  + printGraph(): void
+}
+
+class LCA {
+  - graph: Graph
+  - parent: vector<int>
+  - depth: vector<int>
+  + printAncestors(vertex: int): void
+  + findLCA(vertex1: int, vertex2: int): int
+}
+
+Graph "1" -- "1" LCA
+@enduml

@@ -1,0 +1,3 @@
+C:/Users/AzerQ/Documents/GitHub/CursLabPasha/GraphParent/cmake-build-debug/CMakeFiles/GraphParent.dir
+C:/Users/AzerQ/Documents/GitHub/CursLabPasha/GraphParent/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AzerQ/Documents/GitHub/CursLabPasha/GraphParent/cmake-build-debug/CMakeFiles/rebuild_cache.dir
